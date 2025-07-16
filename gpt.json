@@ -1,0 +1,21 @@
+{
+  "_id": {
+    "$oid": "687e1a001395041320a651e9"
+  },
+  "jobId": "ddb71cf3-c8e3-4894-8c73-a819046cc539",
+  "datasetId": "681c60aad4c8dd45ef3181e7",
+  "executionStatus": "Completed",
+  "executedBy": "user",
+  "identifier": "TD_001P",
+  "projectName": "Summarization",
+  "executedDate": "2025-07-09T07:34:45.505267",
+  "modifiedDate": "2025-07-09T07:34:45.505267",
+  "errorMessage": "Metrics evaluation completed successfully.",
+  "executionType": "async",
+  "model": "gpt-4o",
+  "executionTime": 0.01,
+  "totalRecords": 1,
+  "configId": "6846d27dc0a407ff10b4241d",
+  "configurationName": "configtest",
+  "datasetName": "SummAj"
+}
